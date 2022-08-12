@@ -37,6 +37,8 @@ const App=()=>{
     }
     return(
         <div className="container">
+            <div className="items">
+
             <div className="img-box">
                 <button className="btn" onClick={goPrev}> &lt;</button>
                 <img className="img-review" src={image} alt="" />
@@ -56,6 +58,7 @@ const App=()=>{
                 <p>{text}</p>
             </div>
             
+            </div>
         </div>
     )
 }
