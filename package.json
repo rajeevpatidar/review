@@ -1,6 +1,5 @@
 {
   "name": "reviews",
-  "homepage": "https://rajeevpatidar.github.io/reviews",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
